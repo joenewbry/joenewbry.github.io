@@ -1,0 +1,58 @@
+﻿Joe Newbry     
+290 Jefferson Avenue, Brooklyn, NY 11216 
+joenewbry@gmail.com • (541)-760-1871 
+——————————————————————————————————————————————————————
+WORK EXPERIENCE 
+Walmart, New York, NY           March 2024 - Present
+Senior iOS Engineer
+● Developed a barcode scanner for Walmart’s internal employee app, used across all stores, improving scanning accuracy by 40% and reducing operational costs by ~$1.2M/year
+● Managed distribution using Cocoapods, Podfiles, and Swift Package Manager
+● Designed and implemented features including adding front camera support and digital zoom
+● Enhanced release processes by integrating SonarQube into our CI/CD pipeline to report code coverage
+● Created a staging build pipeline to release an internal testing app through Testflight using Fastlane and Looper
+
+
+Grindr, New York, NY           November 2023 - February 2024
+Senior iOS Engineer
+● Launch new feature in Grindr’s iOS app in 6 weeks (RxSwift, Coordinator pattern, MVVC)
+● Collaborate with design and product to convert Figma designs into scoped Jira tickets
+● Data persistence with WebSockets and Rest API along with Core Data
+● Integrated Amplitude to incrementally release features
+● Unit-tested RxSwift inputs and outputs using XCTestCase
+
+
+Screen Timelapse, New York, NY           April 2023 - October 2023
+Senior A.I. Engineer
+● Architected end-to-end screen history solution that integrated with Claude using ChromaDB’s MCP framework
+● Implemented automated screenshot capture every 60 seconds, text extraction via Tesseract.js OCR, and JSON storage of metadata
+● Released feature improvements based on feedback including toggleable modes, pause/resume functionality via keyboard input, and batch processing of vector storage
+
+
+Sunny A.I., New York, NY                                                                                      October 2022 - March 2023
+Senior A.I. Engineer
+● Designed architecture of LLM-based state machine with tool use that loaded JSON therapy sessions, and pulled in relevant client information throughout the conversation using RAG and named variables
+● Configured multitask architecture to run safety checks in the background without interrupting the conversation
+● Shipped multiple tenant support using Redis to decrease memory pressure on hosted Node server
+● Evaluated vector storage solutions including Pinecone, ChromaDB, and others before selecting Pinecone for scalability and production readiness 
+
+
+Cadmium, New York, NY                                                                                    June 2019 - December 2019        
+Founder
+● Managed a three-person team that built A.I.-powered drawing tools for hand-drawn animation
+● Implemented segment similarity search in Python and OpenCV
+
+
+Microsoft, San Francisco, CA                                                                    December 2015 - December 2017
+Software Engineer 
+● Led research effort to build an image classifier model on iOS devices using TensorFlow Lite for on-device receipt detection
+● Launched SpendIQ — a Swift (and SwiftUI) project that used on device receipt detection
+● Evaluated RxSwift for use in SpendIQ
+    ● Worked on MileIQ — a mixed language Swift / Objective-C project that uses a state machine to process GPS data
+● Built our drive auto-classification feature using an operation queue to safely animate UITableView updates
+
+
+
+
+EDUCATION 
+Claremont McKenna College, Claremont, CA                                                                             May 2014
+Bachelor of Arts in Economics (sequence in Computer Science)

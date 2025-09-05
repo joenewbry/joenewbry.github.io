@@ -1,0 +1,11 @@
+# Task List
+- [ ] use html and css example to create a web page that loads quickly without external libs or tracking
+- [ ] figure out a low latency and simple hosting provider / solution -- I'm familar with firebase but open to other options
+- [ ] Please use my Resume to build the page
+- [ ] Include 5 years spent surfing in the timeline
+- [ ] I don't have a featured talks section
+- [ ] Make a projects section for now wiht three projects. Flow - a screen history tool, Chess Robot, Task Processor, and KnowYourPolitician
+- [ ] I don't have publications
+- [ ] I only have X, github, a blog, and email so those should be the buttons at the top
+- [ ] I like early stage startups and A.I. that helps people is my tagline at the top
+- [ ] Use the png I provided as the avatar image
